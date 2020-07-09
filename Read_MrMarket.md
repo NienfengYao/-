@@ -1,6 +1,9 @@
 # 閱讀 [Mr.Market 市場先生](https://rich01.com/) 的記錄
 * 重點記錄
   * [看懂現金流](https://rich01.com/blog-pos-14/)
+  * [學投資的第一步是看書](https://rich01.com/blog-post_7-5/)
+    * [ ] Book: 雪球速讀法, 學習必勝！速讀術, 心智圖筆記術
+    * [ ] 筆記工具: Evernote(雲端筆記本) 和 Mindmap42(免費心智圖架構)
 
 -----
 # Overview List: 理財入門課 – 超過100篇學投資文章整理分享
